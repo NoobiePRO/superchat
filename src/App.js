@@ -1,4 +1,4 @@
-import firebase from 'firebase/app';
+import firebase from 'firebase';
 import React,{useState,useRef} from 'react';
 import './App.css';
 import 'firebase/firestore'
